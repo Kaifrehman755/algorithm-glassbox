@@ -49,8 +49,7 @@ I wanted this to be fast, responsive, and accessible anywhere.
 
 | **The Playground** | **The Logic (Glass Box)** |
 |:---:|:---:|
-| ![Grid Demo](https://via.placeholder.com/400x200?text=Interactive+Grid+Shot) | ![Explainer Demo](https://via.placeholder.com/400x200?text=Logic+Panel+Shot) |
-*(Replace these links with your actual screenshots later!)*
+| ![Live App Link]-https://algorithm-glassbox.vercel.app/| ![Explainer Demo]- https://drive.google.com/file/d/10GwTWIPu1Vs_5Fosw2JY75WlEIBQ7Bap/view?usp=sharing
 
 ---
 
